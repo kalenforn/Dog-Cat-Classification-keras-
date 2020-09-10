@@ -1,0 +1,12 @@
+keras==2.2.4
+tensorflow=1.11.0
+numpy
+PIL
+opencv-python
+
+# cnn
+0.3989  4
+0.3906  7
+0.3920  9
+
+#mobilenet
