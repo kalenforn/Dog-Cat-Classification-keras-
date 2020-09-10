@@ -6,7 +6,7 @@
 - 本项目基于windows环境，使用anaconda3的python环境完成，用户需要自行安装.
 - ```pip install -r requirements.txt```
 ## 3：开始训练
-```python train.py```
+- ```python train.py```
 ## 4：测试
 - 执行：```python test.py --help```自行了解参数详细用法，以下为示例.
 - ```python test.py --model-path /PATH/TO/YOUR/MODEL/ --image-path /PATH/TO/YOUR/TEST/IMAGE/ --model 0 (or 1 or 2)```
